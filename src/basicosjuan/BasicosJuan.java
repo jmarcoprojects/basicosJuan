@@ -28,4 +28,8 @@ public class BasicosJuan {
         System.out.println("Valor entero: " + entero);
         System.out.println("Valor doble: " + doble);
     }   
+    
+    public static void main(String[] args) {
+        numericos();
+    }
 }
